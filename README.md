@@ -1,4 +1,4 @@
-**Efficient ToDo List Management:**
+# Efficient ToDo List Management:
 
 Created a dynamic web application for managing to-do lists with HTML, CSS, and JavaScript.
 Implemented a persistent data storage mechanism, ensuring tasks remain saved until marked as complete.
